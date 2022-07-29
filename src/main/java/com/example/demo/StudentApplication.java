@@ -9,7 +9,9 @@ public class StudentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StudentApplication.class, args);
 		
-		System.out.println("This is Student App");
+		int a=20;
+		
+		System.out.println(a);
 	}
 
 }
